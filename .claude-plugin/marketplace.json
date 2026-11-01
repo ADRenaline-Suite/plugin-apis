@@ -1,0 +1,16 @@
+{
+  "name": "plugin-apis",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "plugins": [
+    {
+      "name": "plugin-apis",
+      "source": "./",
+      "description": "HTTP contract: operations traced to a use case, problem details, and a chosen version policy."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace with the APIs plugin."
+  }
+}

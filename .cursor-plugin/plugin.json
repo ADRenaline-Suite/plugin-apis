@@ -1,0 +1,18 @@
+{
+  "name": "plugin-apis",
+  "displayName": "APIs",
+  "description": "HTTP contract: operations traced to a use case, problem details, and a chosen version policy.",
+  "version": "0.0.1",
+  "author": {
+    "name": "d-mente"
+  },
+  "license": "MIT",
+  "keywords": [
+    "openapi",
+    "http",
+    "rest",
+    "problem-details",
+    "versioning"
+  ],
+  "repository": "https://github.com/ADRenaline-Suite/plugin-apis"
+}

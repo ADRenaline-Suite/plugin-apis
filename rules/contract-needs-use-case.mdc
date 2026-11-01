@@ -1,0 +1,12 @@
+---
+description: An operation needs a use case. The threat model, the aggregate, and the reader document stay in their plugins.
+alwaysApply: true
+---
+
+# Contract needs a use case
+
+An operation names a use case from `plugin-project-manager`. If none is accepted, ask for it. Do not invent the goal.
+
+The authentication scheme matches a requirement `plugin-security` already wrote. If none exists, ask for it. Do not invent the control.
+
+The aggregate and the adapter that fulfill the contract belong to `plugin-backend`. The reader-facing reference belongs to `plugin-documentation`. This plugin writes the contract.
